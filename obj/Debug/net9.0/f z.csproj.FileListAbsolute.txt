@@ -1,0 +1,14 @@
+D:\f z\bin\Debug\net9.0\f z.exe
+D:\f z\bin\Debug\net9.0\f z.dll
+D:\f z\bin\Debug\net9.0\f z.deps.json
+D:\f z\bin\Debug\net9.0\f z.runtimeconfig.json
+D:\f z\bin\Debug\net9.0\f z.pdb
+D:\f z\obj\Debug\net9.0\f z.GeneratedMSBuildEditorConfig.editorconfig
+D:\f z\obj\Debug\net9.0\f z.AssemblyInfoInputs.cache
+D:\f z\obj\Debug\net9.0\f z.AssemblyInfo.cs
+D:\f z\obj\Debug\net9.0\f z.csproj.CoreCompileInputs.cache
+D:\f z\obj\Debug\net9.0\f z.dll
+D:\f z\obj\Debug\net9.0\refint\f z.dll
+D:\f z\obj\Debug\net9.0\f z.pdb
+D:\f z\obj\Debug\net9.0\f z.genruntimeconfig.cache
+D:\f z\obj\Debug\net9.0\ref\f z.dll
