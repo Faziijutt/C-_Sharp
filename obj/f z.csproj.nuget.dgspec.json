@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\f z\\f z.csproj": {}
+    "D:\\C sharp\\f z.csproj": {}
   },
   "projects": {
-    "D:\\f z\\f z.csproj": {
+    "D:\\C sharp\\f z.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\f z\\f z.csproj",
+        "projectUniqueName": "D:\\C sharp\\f z.csproj",
         "projectName": "f z",
-        "projectPath": "D:\\f z\\f z.csproj",
+        "projectPath": "D:\\C sharp\\f z.csproj",
         "packagesPath": "C:\\Users\\Faizan Jutt\\.nuget\\packages\\",
-        "outputPath": "D:\\f z\\obj\\",
+        "outputPath": "D:\\C sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Faizan Jutt\\AppData\\Roaming\\NuGet\\NuGet.Config"

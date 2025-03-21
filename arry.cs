@@ -34,45 +34,47 @@
 
 // }
 
-using System;
-namespace inheritence{
-class A{
-    protected int a=5,b=5,c;
-    public virtual void add()
-    {
-        c=a +b;
-        Console.WriteLine(c);
-    }
-    public virtual void sub()
-    {
-        c=a -b;
-        Console.WriteLine(c);
-    }
-}
-class B:A
-{
+// using System;
+// namespace inheritence{
+// class A{
+//     protected int a=5,b=5,c;
+//     public virtual void add()
+//     {
+//         c=a +b;
+//         Console.WriteLine(c);
+//     }
+//     public virtual void sub()
+//     {
+//         c=a -b;
+//         Console.WriteLine(c);
+//     }
+// }
+// class B:A
+// {
     
-    public override void add()
-    {
-        base.add();
-        c=a *b;
-        Console.WriteLine(c);
-    }
-    public override void sub()
-    {
-        base.sub();
-        c=a /b;
-        Console.WriteLine(c);
-    }
-    static void Main(){
-        B Faiz=new B();
-        Faiz.add();
-        // Faiz.add();
-        // Faiz.sub();
-        Faiz.sub();
+//     public override void add()
+//     {
+//         base.add();
+//         c=a *b;
+//         Console.WriteLine(c);
+//     }
+//     public override void sub()
+//     {
+//         base.sub();
+//         c=a /b;
+//         Console.WriteLine(c);
+//     }
+//     static void Main(){
+//         B Faiz=new B();
+//         Faiz.add();
+//         // Faiz.add();
+//         // Faiz.sub();
+//         Faiz.sub();
                   
-  }
-  }
+//   }
+//   }
+
+
 //   class faizan{
 //     faizan(int i)
 //     {
@@ -82,4 +84,4 @@ class B:A
 //         faizan obj=new faizan(65);
 //     }
 //   }
-}
+// }
